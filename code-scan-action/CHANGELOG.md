@@ -4,11 +4,10 @@ All notable changes to this package will be documented in this file.
 
 ## [0.1.6](https://github.com/promptfoo/promptfoo/compare/code-scan-action-0.1.5...code-scan-action-0.1.6) (2026-05-03)
 
-
 ### Bug Fixes
 
-* **code-scan:** honor enable-fork-prs ([#8938](https://github.com/promptfoo/promptfoo/issues/8938)) ([517ec9d](https://github.com/promptfoo/promptfoo/commit/517ec9d3a0589be726bf024ea7d38bc28bb46702))
-* **deps:** update dependency undici to ^7.25.0 ([#9017](https://github.com/promptfoo/promptfoo/issues/9017)) ([5be6015](https://github.com/promptfoo/promptfoo/commit/5be6015ed51bccbaad03fc3c5a48e099f1f552cd))
+- **code-scan:** honor enable-fork-prs ([#8938](https://github.com/promptfoo/promptfoo/issues/8938)) ([517ec9d](https://github.com/promptfoo/promptfoo/commit/517ec9d3a0589be726bf024ea7d38bc28bb46702))
+- **deps:** update dependency undici to ^7.25.0 ([#9017](https://github.com/promptfoo/promptfoo/issues/9017)) ([5be6015](https://github.com/promptfoo/promptfoo/commit/5be6015ed51bccbaad03fc3c5a48e099f1f552cd))
 
 ## [0.1.5](https://github.com/promptfoo/promptfoo/compare/code-scan-action-0.1.4...code-scan-action-0.1.5) (2026-04-14)
 
